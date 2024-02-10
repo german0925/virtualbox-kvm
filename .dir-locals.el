@@ -1,7 +1,7 @@
 ;;; Directory Local Variables
 ;;; See Info node `(emacs) Directory Variables' for more information.
 
-;; You might want to use
+;; You might can to use
 ;;
 ;;   (put 'indent-tabs-mode 'permanent-local t)
 ;;
